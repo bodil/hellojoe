@@ -1,5 +1,4 @@
-Hello Joe
-=========
+# Hello Joe
 
 Hello Joe is built on top of Node's `cluster` module to manage worker
 processes. It allows you to write your application in a vaguely Erlang
